@@ -1,4 +1,4 @@
-export const adjektiver = [
+export const adjektiver : string[] = [
   "BARBERT","BARKA","BARSK","BEIN","BISK","BRAV","BRYSK","DIGG","DJERV","DUS",
   "ENKEL","FALSK","FIN","FJASETE","FJERN","FJONG","FLINK","FRI","FRISK","FUL",
   "FYNDIG","FYRRIG","GLUPSK","GOD","GREI","HALV","HARM","HASTIG","HEL","HET",
@@ -11,7 +11,7 @@ export const adjektiver = [
   "TVERR","UJEVN","URBAN","VAKKER","VARM","VERDIG","VILL","VIMSETE","VOKSEN","VRIEN"
 ];
 
-export const substantiver = [
+export const substantiver : string[] = [
   "AI","ALPAKKA","ANKEL","APP","BAJAS","BARBIE","BAUTA","HANDEL","BLOGG","BOM",
   "BONDE","BRIKKE","BRIS","BRO","BRYGGE","BY","CAPS","DIVA","DOKTOR","DUE",
   "ELSK","FEIL","FIDUS","FIKEN","FINGER","FJOMP","FLINKIS","FNATT","FRED","FRISKUS",
